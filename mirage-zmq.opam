@@ -7,6 +7,8 @@ authors: "Huiyao Zheng <huiyaozheng@gmail.com>"
 dev-repo: "https://github.com/TheLortex/Mirage-zmq"
 depends: [ 
   "ocaml" 
+  "angstrom"
+  "faraday"
   "dune"
   "lwt-dllist" 
   "tcpip" 
